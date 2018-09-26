@@ -8,13 +8,13 @@ This project is intended to be the wrap up of key topics learned: basic class de
 
 Write a program that randomly generates a value for the weight of the package (between 0 and 140) and the three dimensions of the package (between 5 and 60). The program should determine the longest dimension of the package, calculate the girth, and consider the weight. The program should then print out **one** of the following messages about this package:
 
-Package is too large and too heavy.
+**Package is too large and too heavy.**
 
-Package is too large.
+**Package is too large.**
 
-Package is too heavy.
+**Package is too heavy.**
 
-Package is acceptable.
+**Package is acceptable.**
 
 ### Sample Outputs
 
@@ -70,7 +70,7 @@ In your team you will be required to map out your class design and present your 
 
 ## Submission
 
-Please have Mr. King run your code before turning it in. Make sure you have tested it thoroughly because he will find a way to break it, if possible!
+Please have Mr. King run your code before turning it in. Make sure you have tested it thoroughly (no dimensions or weight should be 0).
 
 At the top of your Runner class file put the team members' first and last names and give a brief explanation of what they did to contribute to the project and code.
 
