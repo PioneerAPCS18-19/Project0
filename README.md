@@ -26,7 +26,7 @@ Package is too large and too heavy.
 ```
 
 ```
-Dimensions: 10, 28, 29
+Dimensions: 10, 20, 29
 Weight: 100
 
 Package is too heavy.
