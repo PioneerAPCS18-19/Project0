@@ -2,7 +2,7 @@
 
 The U.S. post office has rules about mailing packages. A package cannot be mailed first class if the sum of its length and girth is greater than 100 inches, or if the package weighs more than 70 pounds. The girth is the perimeter around the height and width, where the length is defined as the longest of the three dimensions.
 
-This project is intended to be the wrap up of key topics learned: basic class design and functionality, methods (creating and calling--within and outside of class), if-else statements with boolean expressions, and robust program testing.
+This project is intended to be the wrap up of key topics learned: basic class design and functionality, methods (creating and calling--within and outside of class), if-else statements with boolean expressions, random numbers, and robust program testing.
 
 ## Your assignment
 
@@ -15,6 +15,36 @@ Package is too large.
 Package is too heavy.
 
 Package is acceptable.
+
+### Sample Outputs
+
+```
+Dimensions: 10, 25, 31
+Weight: 71
+
+Package is too large and too heavy.
+```
+
+```
+Dimensions: 10, 28, 29
+Weight: 100
+
+Package is too heavy.
+```
+
+```
+Dimensions: 34, 12, 57
+Weight: 10
+
+Package is too large.
+```
+
+```
+Dimensions: 7, 10, 19
+Weight: 55
+
+Package is acceptable.
+```
 
 ### Class Design
 
